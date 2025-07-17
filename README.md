@@ -9,7 +9,7 @@
 
 ## 🌟 Live Demo
 
-[Visit My Portfolio](https://dheerajnair123.github.io/portfolio-website) ✨
+[Visit My Portfolio](https://dheerajnairp.vercel.app) ✨
 
 ## 📸 Preview
 
