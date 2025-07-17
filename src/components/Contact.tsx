@@ -296,8 +296,8 @@ const Contact: React.FC = () => {
     {
       icon: <Mail size={20} />,
       title: 'Email',
-      value: 'dheerajnairp@example.com',
-      link: 'mailto:dheerajnairp@example.com',
+      value: 'dheerajnairp@gmail.com',
+      link: 'mailto:dheerajnairp@gmail.com',
     },
     {
       icon: <Phone size={20} />,
