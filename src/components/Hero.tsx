@@ -331,7 +331,7 @@ const Hero: React.FC = () => {
             <Linkedin size={24} />
           </SocialLink>
           <SocialLink
-            href="mailto:dheerajnairp@example.com"
+            href="mailto:dheerajnairp@gmail.com"
             whileHover={{ scale: 1.2, y: -2 }}
           >
             <Mail size={24} />
