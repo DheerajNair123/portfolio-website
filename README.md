@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Portfolio Website
 
@@ -81,3 +82,6 @@ Feel free to customize this README for your own needs!
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+=======
+# Portfolio
+>>>>>>> fee4d98d447073416091b3b2490190c351a5b9d6
