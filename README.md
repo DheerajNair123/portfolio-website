@@ -1,43 +1,80 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Portfolio Website
 
-## Available Scripts
+A modern, responsive portfolio website built with React, TypeScript, Styled Components, and Framer Motion. This project showcases featured work, skills, and contact information for Dheeraj Nair.
 
-In the project directory, you can run:
+## Features
+- Animated hero section with dynamic greetings and typewriter effect
+- About section with profile image, skills, and stats
+- Featured work/projects grid with code links
+- Downloadable CV
+- Social links (GitHub, LinkedIn, Email)
+- Smooth scroll navigation
+- Responsive design for all devices
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Prerequisites
+- Node.js (v16 or above recommended)
+- npm or yarn
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/DheerajNair123/portfolio-website.git
+   cd portfolio-website
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   # or
+   yarn install
+   ```
+3. Start the development server:
+   ```sh
+   npm start
+   # or
+   yarn start
+   ```
 
-### `npm test`
+## Project Structure
+```
+portfolio-website/
+├── public/
+│   ├── favicon.ico
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── Hero.tsx
+│   │   ├── About.tsx
+│   │   ├── Work.tsx
+│   │   └── ...
+│   ├── styles/
+│   │   ├── GlobalStyles.ts
+│   │   └── Theme.ts
+│   ├── assets/
+│   │   ├── profile.jpg
+│   │   ├── Main.pdf
+│   │   └── ...
+│   ├── App.tsx
+│   └── ...
+├── package.json
+├── tsconfig.json
+└── README.md
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Deployment
+You can deploy this site using platforms like Vercel, Netlify, or GitHub Pages.
 
-### `npm run build`
+## License
+This project is licensed under the MIT License.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Author
+[Dheeraj Nair](https://github.com/DheerajNair123)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
+Feel free to customize this README for your own needs!
 
 ## Learn More
 
