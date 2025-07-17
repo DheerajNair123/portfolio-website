@@ -324,7 +324,7 @@ const Hero: React.FC = () => {
             <Github size={24} />
           </SocialLink>
           <SocialLink
-            href="https://linkedin.com/dheerajnairp"
+            href="https://linkedin.com/in/dheerajnairp"
             target="_blank"
             whileHover={{ scale: 1.2, y: -2 }}
           >
