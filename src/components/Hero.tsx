@@ -299,7 +299,7 @@ const Hero: React.FC = () => {
             whileTap={{ scale: 0.95 }}
             onClick={() => {
               const link = document.createElement('a');
-              link.href = require('../assets/Main.pdf');
+              link.href = require('../assets/Resume.pdf');
               link.download = 'Main.pdf';
               link.target = '_blank';
               document.body.appendChild(link);
